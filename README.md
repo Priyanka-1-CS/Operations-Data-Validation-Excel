@@ -1,4 +1,4 @@
-# Operations Data Validation & Performance Dashboard
+# Operations Data Validation & Performance Dashboard 
 ----------------------------------------------------------
 
 An Excel-based operations reporting project focused on data validation, reconciliation, PivotTable analysis, KPI reporting, and dashboard visualization using a fictional dataset of 80 operational records.
